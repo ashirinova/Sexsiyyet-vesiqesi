@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\bin\Debug\net8.0-windows\Sexsiyyet vesiqesi.exe
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\bin\Debug\net8.0-windows\Sexsiyyet vesiqesi.deps.json
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\bin\Debug\net8.0-windows\Sexsiyyet vesiqesi.runtimeconfig.json
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\bin\Debug\net8.0-windows\Sexsiyyet vesiqesi.dll
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\bin\Debug\net8.0-windows\Sexsiyyet vesiqesi.pdb
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet_vesiqesi.Form1.resources
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.AssemblyInfo.cs
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.dll
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\refint\Sexsiyyet vesiqesi.dll
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.pdb
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyyet vesiqesi.genruntimeconfig.cache
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\ref\Sexsiyyet vesiqesi.dll
+C:\Users\User\source\repos\Sexsiyyet vesiqesi\Sexsiyyet vesiqesi\obj\Debug\net8.0-windows\Sexsiyye.C8B3343C.Up2Date
